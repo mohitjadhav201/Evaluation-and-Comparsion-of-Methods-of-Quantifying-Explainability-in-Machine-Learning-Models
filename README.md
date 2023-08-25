@@ -1,6 +1,5 @@
 # Evaluation and Comparison of Methods of Quantifying Explainability in Machine Learning Models
 
-![Project Banner](project_banner.png) <!-- If you have a project banner or logo -->
 
 ## 🚀 Introduction
 
@@ -46,7 +45,7 @@ Follow these steps to explore the project:
    ```sh
    git clone https://github.com/your-username/explainability-evaluation.git
 
-👥 Contributors
-Mohit Jadhav
-ROmit Suryvanshi
-Digvijay Patil
+👥 Contributors:
+-Mohit Jadhav.
+-Rmit Suryvanshi.
+-Digvijay Patil.
