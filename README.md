@@ -83,6 +83,6 @@ Follow these steps to explore the project:
    git clone https://github.com/your-username/explainability-evaluation.git
 
 👥 Contributors:
--Mohit Jadhav.
--Rmit Suryvanshi.
--Digvijay Patil.
+   -Mohit Jadhav.
+   -Romit Suryvanshi.
+   -Digvijay Patil.
