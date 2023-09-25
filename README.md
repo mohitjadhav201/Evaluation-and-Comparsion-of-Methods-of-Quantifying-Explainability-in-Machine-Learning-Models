@@ -74,14 +74,6 @@ Our project unfolds through the following steps:
 - **Notebooks:** Jupyter notebooks detailing the step-by-step process of the project.
 - **Results:** Stores visualizations, graphs, and any other output generated during the analysis.
 
-## 🛠️ Usage
-
-Follow these steps to explore the project:
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/explainability-evaluation.git
-
 ## 👥 Contributors
 - Mohit Jadhav
 - Romit Suryvanshi
