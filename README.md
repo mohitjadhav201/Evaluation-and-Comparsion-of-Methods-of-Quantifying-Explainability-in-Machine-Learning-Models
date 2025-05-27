@@ -23,7 +23,7 @@ y = 2x1 + 3log(x2) + 4x^2^3 − 8√x4 + cos(x5) + 0.3x6 + ϵ
 ### Equation 3:
 y = x1 + x2 + √x3 + log(x4) + exp(x5) + 2tan(x6) + 0.3x1x2 + x7 + ϵ
 
-Where:
+Where
 - x7 = 0 if x5 ≤ 0, 1 otherwise
 
 ### Equation 4:
